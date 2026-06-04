@@ -4,7 +4,9 @@
    <img src="sistema_app/static/img/logo_b.png" alt="Logo del proyecto" width="300"/>
 </p>
 
-Página web desarrollada con Django como proyecto final para la materia de Ingeniería de Software.
+Página web desarrollada por **Lambda Softworks©** como proyecto final para la materia de Ingeniería de Software.
+
+Se usó el framework `Django` de `python`, `html`, `css` y `JavaScript` nativo para la implementación.
 
 ## Integrantes
 
@@ -22,6 +24,8 @@ La aplicación ya cuenta con un despliegue disponible para que se pueda probar s
 instalar ninguna dependencia.
 
 - ¡Página en vivo del [Festival Internacional de las Luciérnagas](https://luciernagas2026-tg3o.onrender.com/)!
+
+La página puede tardar unos minutos en cargar, ya que el servidor se apaga cuando está inactivo.
 
 ## Ejecución Local
 
